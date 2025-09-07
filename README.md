@@ -14,3 +14,9 @@
  <a href="https://github.com/chronoss09/Theme-muOS-Goose/stargazers">
         <img src="https://img.shields.io/github/stars/chronoss09/Theme-muOS-Goose" width="120"></a>
 </p>
+
+## Epic muOS
+<img src="https://github.com/user-attachments/assets/3c587bc9-2080-44ab-840d-32e96e7ffac1" width="400">
+
+![GitHub Downloads](https://img.shields.io/github/downloads/Chronoss09/Theme-muOS-Goose/epmu/total?logo=github&label=GitHub%20Downloads)  
+Téléchargement : [Epic muOS](https://github.com/chronoss09/Theme-muOS-Goose/releases/tag/epmu)
