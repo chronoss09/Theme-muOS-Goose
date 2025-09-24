@@ -15,6 +15,13 @@
         <img src="https://img.shields.io/github/stars/chronoss09/Theme-muOS-Goose" width="120"></a>
 </p>
 
+## muOS Epic Noir Collecton
+<img src="https://github.com/user-attachments/assets/128dc180-8efd-4158-8df6-00752bb216cf" width="400">
+<img src="https://github.com/user-attachments/assets/9b425e57-6075-442e-9c42-615850b7d6e3" width="400">
+
+![GitHub Downloads](https://img.shields.io/github/downloads/Chronoss09/Theme-muOS-Goose/epmu/total?logo=github&label=GitHub%20Downloads)  
+Téléchargement : [muOS Epic Noir Collection](https://github.com/chronoss09/Theme-muOS-Goose/releases/tag/mepn)
+
 ## Epic muOS Collection
 <img src="https://github.com/user-attachments/assets/de61abc1-17a6-4bcc-b9df-d6a7f1f63b3b" width="400">
 <img src="https://github.com/user-attachments/assets/3c587bc9-2080-44ab-840d-32e96e7ffac1" width="400">
