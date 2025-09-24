@@ -19,7 +19,7 @@
 <img src="https://github.com/user-attachments/assets/128dc180-8efd-4158-8df6-00752bb216cf" width="400">
 <img src="https://github.com/user-attachments/assets/9b425e57-6075-442e-9c42-615850b7d6e3" width="400">
 
-![GitHub Downloads](https://img.shields.io/github/downloads/Chronoss09/Theme-muOS-Goose/epmu/total?logo=github&label=GitHub%20Downloads)  
+![GitHub Downloads](https://img.shields.io/github/downloads/Chronoss09/Theme-muOS-Goose/mepn/total?logo=github&label=GitHub%20Downloads)  
 Téléchargement : [muOS Epic Noir Collection](https://github.com/chronoss09/Theme-muOS-Goose/releases/tag/mepn)
 
 ## Epic muOS Collection
