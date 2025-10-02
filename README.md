@@ -15,6 +15,13 @@
         <img src="https://img.shields.io/github/stars/chronoss09/Theme-muOS-Goose" width="120"></a>
 </p>
 
+## muOS Alekfull-NX Collection
+<img src="https://github.com/user-attachments/assets/e86f5b0b-4061-42fd-a869-404899ed5687" width="400">
+<img src="https://github.com/user-attachments/assets/175c44e1-ccd0-4462-9ac4-cac94ded1c12" width="400">
+
+![GitHub Downloads](https://img.shields.io/github/downloads/Chronoss09/Theme-muOS-Goose/alek/total?logo=github&label=GitHub%20Downloads)  
+Téléchargement : [muOS Alekfull-NX Collection](https://github.com/chronoss09/Theme-muOS-Goose/releases/tag/alek)
+
 ## muOS Epic Noir Collecton
 <img src="https://github.com/user-attachments/assets/128dc180-8efd-4158-8df6-00752bb216cf" width="400">
 <img src="https://github.com/user-attachments/assets/9b425e57-6075-442e-9c42-615850b7d6e3" width="400">
