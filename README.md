@@ -15,6 +15,13 @@
         <img src="https://img.shields.io/github/stars/chronoss09/Theme-muOS-Goose" width="120"></a>
 </p>
 
+## muOS Convas Collection
+<img src="https://github.com/user-attachments/assets/a2b2329e-86d5-4e1b-bed7-f558ca597b33" width="400">
+<img src="https://github.com/user-attachments/assets/da6aa44a-6b01-48a1-83bd-7543ed0e662e" width="400">
+
+![GitHub Downloads](https://img.shields.io/github/downloads/Chronoss09/Theme-muOS-Goose/conv/total?logo=github&label=GitHub%20Downloads)  
+Téléchargement : [muOS Convas Collection](https://github.com/chronoss09/Theme-muOS-Goose/releases/tag/conv)
+
 ## muOS Alekfull-NX Collection
 <img src="https://github.com/user-attachments/assets/e86f5b0b-4061-42fd-a869-404899ed5687" width="400">
 <img src="https://github.com/user-attachments/assets/175c44e1-ccd0-4462-9ac4-cac94ded1c12" width="400">
