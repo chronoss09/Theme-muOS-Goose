@@ -20,7 +20,7 @@
 <img src="https://github.com/user-attachments/assets/22dd1c0f-124d-43a7-a350-ebabe74a1931" width="400">
 
 ![GitHub Downloads](https://img.shields.io/github/downloads/Chronoss09/Theme-muOS-Goose/gart/total?logo=github&label=GitHub%20Downloads)  
-Téléchargement : [Console Grid Art](https://github.com/chronoss09/Theme-muOS-Goose/releases/gart/conv)
+Téléchargement : [Console Grid Art](https://github.com/chronoss09/Theme-muOS-Goose/releases/tag/gart)
 
 ## muOS Alekfull-NX Collection
 <img src="https://github.com/user-attachments/assets/e86f5b0b-4061-42fd-a869-404899ed5687" width="400">
