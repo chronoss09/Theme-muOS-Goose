@@ -15,12 +15,12 @@
         <img src="https://img.shields.io/github/stars/chronoss09/Theme-muOS-Goose" width="120"></a>
 </p>
 
-## muOS Canvas Collection
-<img src="https://github.com/user-attachments/assets/a2b2329e-86d5-4e1b-bed7-f558ca597b33" width="400">
-<img src="https://github.com/user-attachments/assets/da6aa44a-6b01-48a1-83bd-7543ed0e662e" width="400">
+## Console Grid Art
+<img src="https://github.com/user-attachments/assets/6dd051f8-3c12-4ff1-a243-ae7ba533dbd8" width="400">
+<img src="https://github.com/user-attachments/assets/22dd1c0f-124d-43a7-a350-ebabe74a1931" width="400">
 
-![GitHub Downloads](https://img.shields.io/github/downloads/Chronoss09/Theme-muOS-Goose/conv/total?logo=github&label=GitHub%20Downloads)  
-Téléchargement : [muOS Canvas Collection](https://github.com/chronoss09/Theme-muOS-Goose/releases/tag/conv)
+![GitHub Downloads](https://img.shields.io/github/downloads/Chronoss09/Theme-muOS-Goose/gart/total?logo=github&label=GitHub%20Downloads)  
+Téléchargement : [Console Grid Art](https://github.com/chronoss09/Theme-muOS-Goose/releases/gart/conv)
 
 ## muOS Alekfull-NX Collection
 <img src="https://github.com/user-attachments/assets/e86f5b0b-4061-42fd-a869-404899ed5687" width="400">
