@@ -15,7 +15,7 @@
         <img src="https://img.shields.io/github/stars/chronoss09/Theme-muOS-Goose" width="120"></a>
 </p>
 
-## GB OS
+## GB OS Collection
 <img src="https://github.com/user-attachments/assets//93934f62-40ab-4d0d-9ae8-2ae97534ec3b" width="400"> <img src="https://github.com/user-attachments/assets/1aa97d48-08ee-4ffb-996c-2c8b03fc6adb" width="400">
 
 ![GitHub Downloads](https://img.shields.io/github/downloads/Chronoss09/Theme-muOS-Goose/gbos/total?logo=github&label=GitHub%20Downloads)  
