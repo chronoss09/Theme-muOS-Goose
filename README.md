@@ -15,8 +15,14 @@
         <img src="https://img.shields.io/github/stars/chronoss09/Theme-muOS-Goose" width="120"></a>
 </p>
 
+## muOS Canvas Collection
+<img src="https://github.com/user-attachments/assets/5cb19c5d-8ac2-4419-96ed-1057a73e3608" width="400"> <img src="https://github.com/user-attachments/assets/6962103f-361a-4c4e-916e-3b4832a7c48c" width="400">
+
+![GitHub Downloads](https://img.shields.io/github/downloads/Chronoss09/Theme-muOS-Goose/conv/total?logo=github&label=GitHub%20Downloads)  
+Téléchargement : [muOS Canvas Collection](https://github.com/chronoss09/Theme-muOS-Goose/releases/conv/gbos)
+
 ## GB OS Collection
-<img src="https://github.com/user-attachments/assets//93934f62-40ab-4d0d-9ae8-2ae97534ec3b" width="400"> <img src="https://github.com/user-attachments/assets/1aa97d48-08ee-4ffb-996c-2c8b03fc6adb" width="400">
+<img src="https://github.com/user-attachments/assets/93934f62-40ab-4d0d-9ae8-2ae97534ec3b" width="400"> <img src="https://github.com/user-attachments/assets/1aa97d48-08ee-4ffb-996c-2c8b03fc6adb" width="400">
 
 ![GitHub Downloads](https://img.shields.io/github/downloads/Chronoss09/Theme-muOS-Goose/gbos/total?logo=github&label=GitHub%20Downloads)  
 Téléchargement : [GB OS](https://github.com/chronoss09/Theme-muOS-Goose/releases/tag/gbos)
