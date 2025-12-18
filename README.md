@@ -16,7 +16,7 @@
 </p>
 
 ## muOS Station 4
-<img src="https://github.com/user-attachments/assets/6d04b9f3-6123-4955-85b3-94162d22d8bc" width="400">
+<img src="https://github.com/user-attachments/assets/e155fb0d-26d9-4386-a62c-49a7969f912d" width="400">
 
 ![GitHub Downloads](https://img.shields.io/github/downloads/Chronoss09/Theme-muOS-Goose/mstation/total?logo=github&label=GitHub%20Downloads)  
 Téléchargement : [muOS Station 4](https://github.com/chronoss09/Theme-muOS-Goose/releases/tag/mstation)
