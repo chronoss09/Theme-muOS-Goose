@@ -15,6 +15,14 @@
         <img src="https://img.shields.io/github/stars/chronoss09/Theme-muOS-Goose" width="120"></a>
 </p>
 
+## muOS Knulli Collection
+<img src="https://github.com/user-attachments/assets/76c1911e-7434-4f42-be47-afb8aa628931" width="300">
+<img src="https://github.com/user-attachments/assets/4734ef02-b8e3-4efa-90d4-ac64119661b1" width="300">
+<img src="https://github.com/user-attachments/assets/89aa6318-0299-482f-b286-83bc47b3564b" width="300">
+
+![GitHub Downloads](https://img.shields.io/github/downloads/Chronoss09/Theme-muOS-Goose/knulli/total?logo=github&label=GitHub%20Downloads)  
+Téléchargement : [muOS Knulli Collection](https://github.com/chronoss09/Theme-muOS-Goose/releases/tag/knulli)
+
 ## muOS Station 4
 <img src="https://github.com/user-attachments/assets/e155fb0d-26d9-4386-a62c-49a7969f912d" width="400">
 
