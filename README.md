@@ -15,6 +15,14 @@
         <img src="https://img.shields.io/github/stars/chronoss09/Theme-muOS-Goose" width="120"></a>
 </p>
 
+## Cosy Goose (port)
+<img src="https://github.com/user-attachments/assets/e89f633d-b93e-4813-8aa5-c2fba2fda6f3" width="300">
+<img src="https://github.com/user-attachments/assets/79ce1e0f-cf03-411a-bd02-68cf763d5d73" width="300">
+<img src="https://github.com/user-attachments/assets/227d8c6c-a750-4d47-a232-eb0c9dd9c001" width="300">
+
+![GitHub Downloads](https://img.shields.io/github/downloads/Chronoss09/Theme-muOS-Goose/cosy/total?logo=github&label=GitHub%20Downloads)  
+Téléchargement : [Cosy Goose (port)](https://github.com/chronoss09/Theme-muOS-Goose/releases/tag/cosy)
+
 ## muOS Knulli Collection
 <img src="https://github.com/user-attachments/assets/76c1911e-7434-4f42-be47-afb8aa628931" width="300">
 <img src="https://github.com/user-attachments/assets/4734ef02-b8e3-4efa-90d4-ac64119661b1" width="300">
