@@ -15,6 +15,12 @@
         <img src="https://img.shields.io/github/stars/chronoss09/Theme-muOS-Goose" width="120"></a>
 </p>
 
+## Cosy Magic TV
+<img src="https://github.com/user-attachments/assets/8617f6b7-ce1b-40a9-b0ab-2115733fbb27" width="400"> <img src="https://github.com/user-attachments/assets/8f60de3c-4c45-4883-96ef-299de070a496" width="400">
+
+![GitHub Downloads](https://img.shields.io/github/downloads/Chronoss09/Theme-muOS-Goose/cosytv/total?logo=github&label=GitHub%20Downloads)  
+Téléchargement : [Cosy Magic TV](https://github.com/chronoss09/Theme-muOS-Goose/releases/tag/cosytv)
+
 ## Cosy Goose (port)
 <img src="https://github.com/user-attachments/assets/e89f633d-b93e-4813-8aa5-c2fba2fda6f3" width="300">
 <img src="https://github.com/user-attachments/assets/79ce1e0f-cf03-411a-bd02-68cf763d5d73" width="300">
