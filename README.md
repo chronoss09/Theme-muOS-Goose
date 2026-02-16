@@ -16,7 +16,7 @@
 </p>
 
 ## Cosy Magic TV
-<img src="https://github.com/user-attachments/assets/8617f6b7-ce1b-40a9-b0ab-2115733fbb27" width="400"> <img src="https://github.com/user-attachments/assets/8f60de3c-4c45-4883-96ef-299de070a496" width="400">
+<img src="https://github.com/user-attachments/assets/8617f6b7-ce1b-40a9-b0ab-2115733fbb27" width="400"> <img src="https://github.com/user-attachments/assets/2eb4f4a8-d9f7-4981-b720-989c371d5a2f" width="400">
 
 ![GitHub Downloads](https://img.shields.io/github/downloads/Chronoss09/Theme-muOS-Goose/cosytv/total?logo=github&label=GitHub%20Downloads)  
 Téléchargement : [Cosy Magic TV](https://github.com/chronoss09/Theme-muOS-Goose/releases/tag/cosytv)
