@@ -20,7 +20,7 @@
 <img src="https://github.com/user-attachments/assets/de0af6ee-989a-4b10-b145-b0f36a059507" width="400">
 <img src="https://github.com/user-attachments/assets/94d1915c-45a9-4ec0-b501-7d50105bb1de" width="400">
 
-![GitHub Downloads](https://img.shields.io/github/downloads/Chronoss09/Theme-muOS-Goose/cosytv/total?logo=github&label=GitHub%20Downloads)  
+![GitHub Downloads](https://img.shields.io/github/downloads/Chronoss09/Theme-muOS-Goose/yellow/total?logo=github&label=GitHub%20Downloads)  
 Téléchargement : [muOS Pixie Yellow Collection](https://github.com/chronoss09/Theme-muOS-Goose/releases/tag/yellow)
 
 ## Cosy Magic TV
