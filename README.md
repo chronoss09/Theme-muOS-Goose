@@ -15,6 +15,14 @@
         <img src="https://img.shields.io/github/stars/chronoss09/Theme-muOS-Goose" width="120"></a>
 </p>
 
+## muOS Pixie Yellow Collection
+<img src="https://github.com/user-attachments/assets/72819831-3449-4438-b4f1-de7043fa9ea3" width="400"> <img src="https://github.com/user-attachments/assets/a0a03706-8999-4d42-8af1-7bdf962f6bfc" width="400">
+<img src="https://github.com/user-attachments/assets/de0af6ee-989a-4b10-b145-b0f36a059507" width="400">
+<img src="https://github.com/user-attachments/assets/94d1915c-45a9-4ec0-b501-7d50105bb1de" width="400">
+
+![GitHub Downloads](https://img.shields.io/github/downloads/Chronoss09/Theme-muOS-Goose/cosytv/total?logo=github&label=GitHub%20Downloads)  
+Téléchargement : [muOS Pixie Yellow Collection](https://github.com/chronoss09/Theme-muOS-Goose/releases/tag/yellow)
+
 ## Cosy Magic TV
 <img src="https://github.com/user-attachments/assets/8617f6b7-ce1b-40a9-b0ab-2115733fbb27" width="400"> <img src="https://github.com/user-attachments/assets/2eb4f4a8-d9f7-4981-b720-989c371d5a2f" width="400">
 
