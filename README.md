@@ -15,6 +15,13 @@
         <img src="https://img.shields.io/github/stars/chronoss09/Theme-muOS-Goose" width="120"></a>
 </p>
 
+## MuOS Jacaranda : muOS Knulli Termi.Redacted v2
+<img width="400" height="480" alt="muOS_20260310_0803_0" src="https://github.com/user-attachments/assets/baf1bbd1-b0c2-47d2-8ee3-9987cdb66e8e" />
+<img width="400" height="480" alt="muOS_20260310_0803_1" src="https://github.com/user-attachments/assets/304d36df-531b-4000-914d-643dbd0ab88c" />
+
+![GitHub Downloads](https://img.shields.io/github/downloads/Chronoss09/Theme-muOS-Goose/knulli/total?logo=github&label=GitHub%20Downloads)  
+Téléchargement : [muOS Knulli Termi.Redacted v2](https://github.com/chronoss09/Theme-muOS-Goose/releases/tag/knulli)
+
 ## Jacaranda Colored Collection (muOS Pixie Yellow)
 <img src="https://github.com/user-attachments/assets/72819831-3449-4438-b4f1-de7043fa9ea3" width="400"> <img src="https://github.com/user-attachments/assets/a0a03706-8999-4d42-8af1-7bdf962f6bfc" width="400">
 <img src="https://github.com/user-attachments/assets/de0af6ee-989a-4b10-b145-b0f36a059507" width="400">
