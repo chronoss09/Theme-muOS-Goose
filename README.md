@@ -15,6 +15,15 @@
         <img src="https://img.shields.io/github/stars/chronoss09/Theme-muOS-Goose" width="120"></a>
 </p>
 
+## MuOS Jacaranda : MuOS Advance Theme Mega Collection Mod (Soon)
+<img src="https://github.com/user-attachments/assets/5a33b3b2-17a2-4120-9419-299749dbf142" width="400">
+<img src="https://github.com/user-attachments/assets/6a8187f2-05b7-4b3d-9b2d-9497414b09a8" width="355">
+<img src="https://github.com/user-attachments/assets/b4691f69-9eb4-44b3-97fe-f3fad956f7a3" width="400">
+<img src="https://github.com/user-attachments/assets/bed11cf8-df96-4d48-a699-373809efb6bb" width="400">
+
+![GitHub Downloads](https://img.shields.io/github/downloads/Chronoss09/Theme-muOS-Goose/gbacollect/total?logo=github&label=GitHub%20Downloads)  
+Téléchargement : [MuOS Advance Theme](https://github.com/chronoss09/Theme-muOS-Goose/releases/tag/gbacollect)
+
 ## MuOS Jacaranda : muOS Knulli Termi.Redacted v2
 <img width="400" height="480" alt="muOS_20260310_0803_0" src="https://github.com/user-attachments/assets/baf1bbd1-b0c2-47d2-8ee3-9987cdb66e8e" />
 <img width="400" height="480" alt="muOS_20260310_0803_1" src="https://github.com/user-attachments/assets/304d36df-531b-4000-914d-643dbd0ab88c" />
