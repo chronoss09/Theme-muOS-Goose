@@ -15,6 +15,13 @@
         <img src="https://img.shields.io/github/stars/chronoss09/Theme-muOS-Goose" width="120"></a>
 </p>
 
+## Jacaranda : iiSU muOS
+<img src="https://github.com/user-attachments/assets/99fee581-f848-401f-9fcd-df253512daa9" width="400">
+<img src="https://github.com/user-attachments/assets/3e7acfb1-ca9a-4069-8c0e-004834433c50" width="400">
+
+![GitHub Downloads](https://img.shields.io/github/downloads/Chronoss09/Theme-muOS-Goose/iisu/total?logo=github&label=GitHub%20Downloads)  
+Téléchargement : [iiSU muOS](https://github.com/chronoss09/Theme-muOS-Goose/releases/tag/iisu)
+
 ## MuOS Jacaranda : MuOS Advance Theme Mega Collection Mod (Soon)
 <img src="https://github.com/user-attachments/assets/5a33b3b2-17a2-4120-9419-299749dbf142" width="400">
 <img src="https://github.com/user-attachments/assets/6a8187f2-05b7-4b3d-9b2d-9497414b09a8" width="355">
