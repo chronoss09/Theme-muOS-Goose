@@ -15,6 +15,15 @@
         <img src="https://img.shields.io/github/stars/chronoss09/Theme-muOS-Goose" width="120"></a>
 </p>
 
+## MuOS Jacaranda : muOS Knulli Termi.Redacted v2 (new mod and fixe)
+<img src="https://github.com/user-attachments/assets/d75dd9b8-bfec-4d18-973f-15cfc8557524" width="400">
+<img src="https://github.com/user-attachments/assets/a8a293c0-b033-42f9-bcb9-ed47e2c9f169" width="400">
+<img src="https://github.com/user-attachments/assets/2bf0a505-42f7-41d1-a5cd-5c3b54846652" width="400">
+<img src="https://github.com/user-attachments/assets/70cd9c28-fc79-4775-81bd-a2a5da261064" width="400">
+
+![GitHub Downloads](https://img.shields.io/github/downloads/Chronoss09/Theme-muOS-Goose/knulli/total?logo=github&label=GitHub%20Downloads)  
+Téléchargement : [muOS Knulli Termi.Redacted v2](https://github.com/chronoss09/Theme-muOS-Goose/releases/tag/knulli)
+
 ## Jacaranda : iiSU muOS
 <img src="https://github.com/user-attachments/assets/99fee581-f848-401f-9fcd-df253512daa9" width="400">
 <img src="https://github.com/user-attachments/assets/3e7acfb1-ca9a-4069-8c0e-004834433c50" width="400">
@@ -32,8 +41,8 @@ Téléchargement : [iiSU muOS](https://github.com/chronoss09/Theme-muOS-Goose/re
 Téléchargement : [MuOS Advance Theme](https://github.com/chronoss09/Theme-muOS-Goose/releases/tag/gbacollect)
 
 ## MuOS Jacaranda : muOS Knulli Termi.Redacted v2
-<img width="400" height="480" alt="muOS_20260310_0803_0" src="https://github.com/user-attachments/assets/baf1bbd1-b0c2-47d2-8ee3-9987cdb66e8e" />
-<img width="400" height="480" alt="muOS_20260310_0803_1" src="https://github.com/user-attachments/assets/304d36df-531b-4000-914d-643dbd0ab88c" />
+<img src="https://github.com/user-attachments/assets/baf1bbd1-b0c2-47d2-8ee3-9987cdb66e8e" width="400">
+<img src="https://github.com/user-attachments/assets/304d36df-531b-4000-914d-643dbd0ab88c" width="400">
 
 ![GitHub Downloads](https://img.shields.io/github/downloads/Chronoss09/Theme-muOS-Goose/knulli/total?logo=github&label=GitHub%20Downloads)  
 Téléchargement : [muOS Knulli Termi.Redacted v2](https://github.com/chronoss09/Theme-muOS-Goose/releases/tag/knulli)
