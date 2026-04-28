@@ -83,7 +83,7 @@ Téléchargement : [muOS Knulli Collection](https://github.com/chronoss09/Theme-
 ![GitHub Downloads](https://img.shields.io/github/downloads/Chronoss09/Theme-muOS-Goose/mstation/total?logo=github&label=GitHub%20Downloads)  
 Téléchargement : [muOS Station 4](https://github.com/chronoss09/Theme-muOS-Goose/releases/tag/mstation)
 
-## muOS Canvas Collection
+## muOS Canvas Collection (fixe 1 TSP)
 <img src="https://github.com/user-attachments/assets/5cb19c5d-8ac2-4419-96ed-1057a73e3608" width="400"> <img src="https://github.com/user-attachments/assets/6962103f-361a-4c4e-916e-3b4832a7c48c" width="400">
 
 ![GitHub Downloads](https://img.shields.io/github/downloads/Chronoss09/Theme-muOS-Goose/conv/total?logo=github&label=GitHub%20Downloads)  
